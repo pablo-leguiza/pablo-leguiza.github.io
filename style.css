@@ -1,0 +1,50 @@
+#name,#ocupation {font-weight:bold}
+
+#photo {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+}
+
+.col-sm-3 {
+    background-color: #666;
+    padding: 30px;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+  }
+
+  
+  .col-sm-9 {
+    background-color: #fdfaf0;
+    padding: 30px;
+    text-align: left;
+    font-size: 20px;
+    color: black;
+  }
+
+  .personal-data{
+    font-size: 20px;
+    color: #666;
+  }
+
+  .left-row-titles{
+    font-weight:bold;
+    font-size: 25px;
+  }
+
+  .experience-list, .complementary-list{
+    font-size: 20px;
+    list-style-type: square;
+  }
+
+  .formation-list{
+    list-style-type: circle;
+  }
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight:bold;
+  } 
